@@ -9,7 +9,6 @@
 
 - React Native
 - Firebase
-- Expo
 
 ## 🚀 Como executar
 

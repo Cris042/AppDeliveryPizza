@@ -13,4 +13,4 @@
 ## 🚀 Como executar
 
 - Instale as dependências com `yarn`
-- Inicie o app com `expo start`
+- Inicie o app com `npx react-native run-android`

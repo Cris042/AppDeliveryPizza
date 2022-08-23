@@ -7,7 +7,7 @@
 
 ## ✨ Tecnologias
 
-- Rect Native
+- React Native
 - Firebase
 - Expo
 
